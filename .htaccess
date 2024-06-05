@@ -1,0 +1,3 @@
+#This is Error Page document
+
+ErrorDocument 404 http://localhost/nooruljumah/404.php
